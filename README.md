@@ -20,7 +20,7 @@ Here's some example of Dimoji V1, created by one of the program founders [@Dr12z
 ```
 
 # 💰 Donation
-As this program just started, we need some sources of funds that make sure the program working continuously, with more dicks. Please consider donating to us to help Dimoji flourish. We accept multiple ways to do so which will be introduced later.
+As this program just started, we need some sources of funds that make sure the program developing continuously, with more dicks. Please consider donating to us to help Dimoji flourish. We thank you greatly for doing this honour action. We accept multiple ways to do so which will be introduced later.
 
 # 🐞 Bugs exist
 This document is made with pure emoji characters, you may not see them at the moment because your devices lacking sorts of character sets. We will be working on this kind of problem by replacing the emoji with emoji shortcodes or creating Diklang (Language for Dickemoji) to fix it.
