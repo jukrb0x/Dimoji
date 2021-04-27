@@ -27,7 +27,7 @@ As we are in the first phase of development, we are intaking awesome people to j
 Be aware of the following exceptions that we do not accept:
 - Real photos of dick, all kinds of sexual (R18) pictures/videos/texts, etc.
 - Child abuse that we highly condemn
-- Racial discrimination act
+- Racial discrimination
 - Political uses
 - Potential harm to people (physical, psychological)
 
