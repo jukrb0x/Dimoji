@@ -19,6 +19,8 @@ Here's some examples of Dimoji V1, created by one of the program founders [@Dr12
 🪀🪀
      ✒️
 ```
+This is just the first phrase, our vision is uniting all different sets of emoji into one Dimoji. We will start with _Diklang_ and the design of dimojis. Following the principle of creativity, this will be like open world games.
+
 ## Framework
 We will need powerful weapons to make Dimoji possible, here we are with some primitive names.
 - Diklang, a programming (or markup) language to create Dimoji and it's derivatives.
