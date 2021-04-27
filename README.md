@@ -1,2 +1,4 @@
 # Dimoji
-Another alternative of Emoji
+The born day of Dimoji
+
+`2021 0427`
