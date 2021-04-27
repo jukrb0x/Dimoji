@@ -38,7 +38,7 @@ As this program just started, we need some sources of funds that make sure the p
 # 🐞 Bugs exist
 This document is made with pure emoji characters, you may not see them at the moment because your devices lacking sorts of character sets. We will be working on this kind of problem by replacing the emoji with emoji shortcodes or creating Diklang (Language for Dickemoji) to fix it.
 
-If you are using an Apple device, you will no meet this problem, since Apple is our best friend and they are really enthusiastic to Dick-like programs.
+If you are using an Apple device, you will not meet this problem, since Apple is our best friend and they are really enthusiastic to Dick-like programs.
 
 
 Peace.
