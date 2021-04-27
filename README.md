@@ -22,7 +22,7 @@ Here's some examples of Dimoji V1, created by one of the program founders [@Dr12
 # ✨ Contribution
 This program can not live without open source community, we love you to submit your brilliant idea and PR to this program, Dimoji can be better with your creation.
 
-As we are in the first phase of development, we are intaking awesome people to join us, please consider helping us make this possible.
+We are intaking awesome people to join us in the first phase of development, please consider helping us make this possible.
 
 Be aware of the following exceptions that we do not accept:
 - Real photos of dick, all kinds of sexual (R18) pictures/videos/texts, etc.
