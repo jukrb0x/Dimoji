@@ -4,7 +4,7 @@ The born day of Dimoji (Dikemoji) `2021 0427`
 # ❓ WTH is this
 Dimoji is an alternative to Emoji, it's a dik-related epoch project. We hope our program will bring the world peace.
 
-The first phrase is making every dik can be represented in Emoji! Then we will figure a way to emojify each dik-emoji
+The first phrase is making every dik can be represented in Emoji! Then we will figure a way to emojify each dik-emoji.
 
 Here's some examples of Dimoji V1, created by one of the program founders [@Dr12zy](https://github.com/Dr12zy):
 
