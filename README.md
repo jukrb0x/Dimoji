@@ -12,11 +12,12 @@ Here's some examples of Dimoji V1, created by one of the program founders [@Dr12
   🍄
   🪣
 🥚  🥚
-```
 
-```
  🍄
 🥚🥚
+
+🪀🪀
+     ✒️
 ```
 ## Framework
 We will need powerful weapons to make Dimoji possible, here we are with some primitive names.
