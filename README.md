@@ -2,7 +2,7 @@
 The born day of Dimoji (Dickemoji) `2021 0427`
 
 # ❓ WTH is this
-Dimoji is an alternative to Emoji, it's a dick-related epoch program.
+Dimoji is an alternative to Emoji, it's a dick-related epoch project. We hope our program will bring the world peace.
 
 The first phrase is making every dick can be represented in Emoji! Then we will figure a way to emojify each dick-emoji
 
@@ -18,6 +18,11 @@ Here's some examples of Dimoji V1, created by one of the program founders [@Dr12
  🍄
 🥚🥚
 ```
+## Framework
+We will need powerful weapons to make Dimoji possible, here we are with some primitive names.
+- Diklang, a programming (or markup) language to create Dimoji and it's derivatives.
+- Dimoji, the program itself.
+- Ph.D, philosophy of dick.
 
 # ✨ Contribution
 This program can not live without open source community, we love you to submit your brilliant idea and PR to this program, Dimoji can be better with your creation.
