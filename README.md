@@ -46,4 +46,4 @@ This document is made with pure emoji characters, you may not see them at the mo
 If you are using an Apple device, you will not meet this problem, since Apple is our best friend and they are really enthusiastic to Dik-like programs.
 
 
-Peace.
+🤞 Peace.
